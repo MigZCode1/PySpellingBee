@@ -32,4 +32,6 @@ You may change the key bindings if you like; the default key bindings are:
 <img src= "Images/Screenshot6.png" width="700">
 
 *Ctrl* to Run the Code
+
+
 *Esc* to Stop the Code
