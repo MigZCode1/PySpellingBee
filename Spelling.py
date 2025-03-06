@@ -29,4 +29,4 @@ keyboard.on_press_key('ctrl', on_ctrl_press)
 keyboard.on_press_key('esc', on_esc_press)
 
 print("Press 'ctrl' to run and press 'esc' to exit")
-keyboard.wait('/')
+keyboard.wait('esc')
